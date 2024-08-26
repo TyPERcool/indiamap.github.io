@@ -1,0 +1,35 @@
+.statename{
+    text-align: center;
+    font-size:xx-large;
+}
+p{
+    font-family: cursive;
+}
+.statemap{
+    float: right;
+    width: 35%;
+    margin-bottom: 15px ;
+}
+.thisstate{
+    position: absolute;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+button {
+    display: block;
+    width: 100px;
+    margin: 20px auto;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
